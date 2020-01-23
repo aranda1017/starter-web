@@ -12,3 +12,8 @@ test for deployment
 ## How to contribute
 
 test for contribute
+
+
+### Copyright
+
+2020 Git.Training
