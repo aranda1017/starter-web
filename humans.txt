@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ricardo A 	aranda@gmail.com 	@aranda
 
 # THANKS
 
