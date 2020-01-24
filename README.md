@@ -1,5 +1,5 @@
 # Starter Web Project
-This is a test for text
+This is a test for text. Adding a line for rebaseing example.
 
 ## Introduction
 Text for introduction
