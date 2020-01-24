@@ -1,5 +1,6 @@
 # Starter Web Project
 This is a test for text. Adding a line for rebaseing example.
+More changes from myfeature branch
 
 ## Introduction
 Text for introduction
